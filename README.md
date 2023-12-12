@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/QXJd9XVrgJuDFhhcOX/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">School 42 printf()</h1>
+<h1 align="center">School 1337 printf()</h1>
 
-This repository contains all files for the __printf__ project from School 42 Málaga cursus. The project consist in duplicate the [`printf()`](https://es.wikipedia.org/wiki/Printf) function, part of the `stdio.h` library.
+This repository contains all files for the __printf__ project from School 1337 cursus. The project consist in duplicate the [`printf()`](https://es.wikipedia.org/wiki/Printf) function, part of the `stdio.h` library.
 
 <h2 align="center">
 	<a href="#about">About</a>
@@ -28,7 +28,6 @@ This project consists in duplicate the behavior of the C function `printf()`. It
 - hexadecimal `int` type variables (uppercase and lowercase).
 - `pointer` type variables.
 
-You will find more details in the [subject of the project](https://github.com/PublioElio/School-42-printf/blob/main/printf.es.subject.pdf).
 
 ## Index
 - [Structure](#structure)
