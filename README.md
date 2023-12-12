@@ -59,7 +59,7 @@ The different types of variables are printed using a function for each of the fo
 * [__`ft_putnbr_hex()`__](https://github.com/Serghini04/ft_printf/blob/main/ft_putnbr_hex.c) prints hexadecimal integers,  using a string included in the `ft_printf.h` library. There is one string for uppercase and one for lowercase characters.
 * [__`ft_putnbr()`__](https://github.com/Serghini04/ft_printf/blob/main/ft_putnbr.c) recursively prints an integer, handling the maximum negative value with a conditional (`if-else`) and casting the integer to characters.
 * [__`ft_print_add()`__](https://github.com/Serghini04/ft_printf/blob/main/ft_print_add.c) prints a pointer, in hexadecimal format (lowercase), preceded by the string "0x".
-* [__`ft_putstr()`__](https://github.com/Serghini04/ft_printf/blob/main/ft_putstr.c) prints a `char *` type variable, calling `ft_putchar_pf()` in a `while` loop. It the string is `NULL`, it returns `"(null)"`.
+* [__`ft_putstr()`__](https://github.com/Serghini04/ft_printf/blob/main/ft_putstr.c) prints a `char *` type variable, calling `ft_putchar()` in a `while` loop. It the string is `NULL`, it returns `"(null)"`.
 * [__`ft_putnbr_u()`__](https://github.com/Serghini04/ft_printf/blob/main/ft_putnbr_u.c) prints an `unsigned int` type variable.
 
 ## Requirements
